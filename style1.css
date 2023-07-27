@@ -1,0 +1,92 @@
+body{
+	background-color:#28eda2;
+}
+
+#youTubeVideo{
+	width:400px;
+	height:300px;
+	display:block;
+	margin:auto;
+}
+
+table, td, th{
+	border:1px solid red;
+	border-collapse : collapse;
+}
+
+table{
+	width: 90%;
+	text-align: center;
+	font-family: arial;
+}
+
+th{
+	background-color:blue;
+	color: white;
+	font-weight:100;
+}
+
+.box1{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	border: 3px solid;
+	margin: auto;
+	margin-bottom: 1rem;
+}
+
+
+
+
+/*===========================
+This is Login Form CSS
+============================*/
+
+.mainBody{
+	width: 100%;
+	height: 100%;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.form-body{
+	width: 500px;
+	background-color: #ffc940;
+	padding: 3rem;
+	border-radius: 1rem;
+
+}
+
+h1{
+	font-family: arial;	
+	margin-bottom: 2rem;
+}
+
+input{
+	width:100%;
+	margin-bottom: 1rem;
+	padding: 1rem;
+	border-radius: 10px;
+	border: none;
+	font-family: arial;
+	font-size: 1rem;
+	letter-spacing: 5px;
+}
+
+button{
+	width: 100%;
+	padding: 1rem;
+	border-radius: 10px;
+	border: none;
+	background-color: #25f71e;
+	color: white;
+	font-size: 1rem;
+}
+
+
+
+
+
+
+

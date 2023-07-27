@@ -1,0 +1,62 @@
+table, th, td{
+	border: 2px solid black;
+	border-collapse: collapse;
+	text-align: justify;
+	font-family: arial;
+}
+
+th{
+	text-align: center;
+	background-color: #e3775f;
+	color: white;
+	font-weight: 100;
+	padding: 0.5rem;
+}
+
+.heading{
+	text-align: center;
+	font-family: arial;
+	font-size: 40px;
+}
+
+.salesHeading{
+	color:blue;
+}
+			
+.imageHeading{
+	color:red;
+}
+
+.videoHeading{
+	color:green;
+}
+
+
+#video{
+	width:400px;
+	border:2px solid white;
+}
+
+img{
+	display:block;
+	margin: auto;
+}
+
+.box{
+	width: 300px;
+	height: 300px;
+	
+}
+
+.box1{
+
+	background-color: skyblue;
+}
+
+.box2{
+	background-color: blue;
+}
+
+
+
+			
